@@ -21,7 +21,7 @@
         "illuminate/support": "^5.8|^6.0|^7.0",
         "nesbot/carbon": "^2.0",
         "haqqman/intl": "^1.0.1",
-        "umpirsky/country-list": "^3.0",
+        "umpirsky/country-list": "2.0.5",
         "umpirsky/locale-list": "^1.0",
         "punic/punic": "^3.1"
     },
